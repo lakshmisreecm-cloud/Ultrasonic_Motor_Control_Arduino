@@ -23,6 +23,9 @@ This project controls two DC motors using an HC-SR04 ultrasonic sensor and an L2
   - Red LED ON
 
 - Distance data can be monitored using HC-05 Bluetooth on a mobile phone.
+- ## Circuit Diagram
+
+![Circuit Diagram](circuit.png)
 
 ## Author
 SREELAKSHMI C M
