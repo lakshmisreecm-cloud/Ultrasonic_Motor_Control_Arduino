@@ -1,4 +1,4 @@
-# Ultrasonic Motor Control Using Arduino
+# Smart-Vehicle-Braking-and-Monitoring-System
 
 ## Overview
 This project controls two DC motors using an HC-SR04 ultrasonic sensor and an L298N motor driver.
